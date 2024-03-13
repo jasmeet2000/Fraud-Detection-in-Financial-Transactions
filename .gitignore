@@ -1,2 +1,5 @@
 # ignores the dataset 
 financial_transactions_dataset.csv
+
+# mac file
+.DS_Store
